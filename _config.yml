@@ -16,7 +16,7 @@ timezone: Europe/Madrid
 
 title: 0xLGMZ Tech Blog
 
-tagline: A text-focused Jekyll theme # it will display as the subtitle
+tagline: Cloud | Devops | Development - Made Simple # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -96,7 +96,7 @@ theme_mode: dark
 cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: https://pub-b4ad091bb0c146eabb430354cbdad574.r2.dev/IMG_2689.jpg
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.
