@@ -14,7 +14,7 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Compiled Alien
+title: 0xlgmz
 
 tagline: Cloud | Devops | Development - Made Simple # it will display as the subtitle
 
@@ -34,8 +34,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Compiled Alien
-  email: hello@compiledalien.com # change to your email address
+  name: Liam Gomez
+  email: hello@0xlgmz.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/0xlgmz # change to your Twitter homepage
